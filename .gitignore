@@ -1,0 +1,13 @@
+ckpts/
+*.json
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.ckpt
+results_half*/
+*.txt
+"ckpts/" 
+"*.json" 
+"__pycache__/" 
+".ipynb_checkpoints/" 
+"*.pt" 
