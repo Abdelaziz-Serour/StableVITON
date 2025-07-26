@@ -1,0 +1,17 @@
+torch==2.4.0
+torchvision==0.17.0
+torchaudio==2.4.0
+pytorch-lightning==1.5.0
+einops
+opencv-python==4.7.0.72
+matplotlib
+omegaconf
+albumentations
+transformers==4.33.2
+triton==2.0.0
+open-clip-torch==2.19.0
+scipy==1.10.1
+clean-fid
+lpips
+pytorch_fid
+xformers==0.0.23.post1
