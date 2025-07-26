@@ -5,7 +5,6 @@ __pycache__/
 *.pt
 *.ckpt
 results_half*/
-*.txt
 "ckpts/" 
 "*.json" 
 "__pycache__/" 
